@@ -1,0 +1,13 @@
+[package]
+name = "cargo-drive"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+repository = "git@github.com:RyanLucchese/cargo-drive.git"
+description = "cargo run? no, cargo drive."
+readme = "README.md"
+categories = ["command-line-utilities", "development-tools::cargo-plugins"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
